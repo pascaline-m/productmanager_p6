@@ -16,7 +16,7 @@ En tant que Product Manager chez Shiawase, une entreprise de vente de voyages or
 
 1. **Analyse de données et UX** :
    - Interprétation des rapports Google Analytics et des études qualitatives.
-   - Application des [heuristiques de Nielsen](https://www.notion.so/Analyse-heuristique-de-Nielsen-efbacfc5cdba49e0b1f7ae0a79266bde?pvs=4) pour évaluer l'utilisabilité.
+   - Application des heuristiques de Nielsen pour évaluer l'utilisabilité.
    - Synthèse des résultats quantitatifs et qualitatifs dans un rapport visuel.
 
 2. **Formulation et test d'hypothèses** :
@@ -24,11 +24,11 @@ En tant que Product Manager chez Shiawase, une entreprise de vente de voyages or
    - Définition d'indicateurs de performance (KPI) et de valeurs cibles pour chaque hypothèse.
 
 3. **Conception UX et planification de tests** :
-   - Création de [wireframes](https://www.figma.com/proto/vUKw97g0xUd5E4777wXX1i/--Shiawase---PASCALINE?node-id=0-1&t=RGqsTHtohJBf7vFe-1) représentant les versions alternatives de la page d'accueil.
+   - Création de wireframes représentant les versions alternatives de la page d'accueil.
    - Élaboration d'un planning détaillé pour les tests A/B.
 
 4. **Gestion technique et analytics** :
-   - Mise à jour du [plan de tagging](https://docs.google.com/spreadsheets/d/1YTHpk8QaulAmPwxEXvto9kbK-kgJZhJzWiYprXqDorg/edit?usp=sharing) pour suivre les nouvelles actions utilisateurs.
+   - Mise à jour du plan de tagging pour suivre les nouvelles actions utilisateurs.
    - Collaboration avec l'équipe de développement pour implémenter les nouveaux tags.
 
 5. **Communication visuelle et reporting** :
